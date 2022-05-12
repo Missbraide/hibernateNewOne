@@ -22,5 +22,8 @@
 
         <mapping class="org.hibernate.models.Employee" />
         <mapping class="org.hibernate.models.Address" />
+        <mapping class="org.hibernate.models.Project" />
+        <mapping class="org.hibernate.models.Item" />
+        <mapping class="org.hibernate.models.ItemDescription" />
     </session-factory>
 </hibernate-configuration>
